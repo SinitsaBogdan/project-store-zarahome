@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Black.ttf) format('ttf');
+	font-weight: 900;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-ExtraBold.ttf) format('ttf');
+	font-weight: 800;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Bold.ttf) format('ttf');
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-SemiBold.ttf) format('ttf');
+	font-weight: 600;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Medium.ttf) format('ttf');
+	font-weight: 500;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Regular.ttf) format('ttf');
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Light.ttf) format('ttf');
+	font-weight: 300;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./fonts/YsabeauSC-ExtraLight.ttf) format('truetype');
+	font-weight: 200;
+}
+@font-face {
+	font-family: 'Ysabeau SC';
+	src: url(./YsabeauSC-Thin.ttf) format('ttf');
+	font-weight: 1;
+}
+@font-face {
+	font-family: 'Inter';
+	src: url(./Inter.ttf) format('ttf');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Roboto';
+	src: url(./RobotoCondensed.ttf) format('ttf');
+	font-display: swap;
+}
