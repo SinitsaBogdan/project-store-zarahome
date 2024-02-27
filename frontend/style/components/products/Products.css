@@ -1,0 +1,15 @@
+.Products {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Products__list {
+	display: grid;
+	margin: 0 70px;
+	grid-template: 1fr / repeat(4, 1fr);
+	padding: 40px 0 50px;
+}
+.Products__item {
+	display: flex;
+	flex-direction: column;
+}

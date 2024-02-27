@@ -5,3 +5,9 @@
 @import url(/style/components/header/Navigations.css);
 
 @import url(/style/components/banner/Banner.css);
+
+@import url(/style/components/products/Products.css);
+@import url(/style/components/product/Product.css);
+@import url(/style/components/product/ProductAnimation.css);
+
+@import url(/style/components/paginations/Paginations.css);

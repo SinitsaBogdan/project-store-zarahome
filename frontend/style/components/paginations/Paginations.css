@@ -1,0 +1,27 @@
+.Paginations {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 10px;
+	width: 100%;
+	margin-left: 62px;
+}
+.Paginations__item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	background-color: white;
+}
+.Paginations__active {
+	background-color: rgb(230, 152, 16);
+	border: 3px solid white;
+	border-radius: 100%;
+}
+.Paginations li:hover {
+	background-color: rgb(138, 96, 23);
+	border: 3px solid white;
+	border-radius: 100%;
+}
