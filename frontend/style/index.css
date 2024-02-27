@@ -1,3 +1,7 @@
 @import url(/style/var.css);
 @import url(/style/global.css);
-@import url(/style/components/header/header.css);
+
+@import url(/style/components/header/Header.css);
+@import url(/style/components/header/Navigations.css);
+
+@import url(/style/components/banner/Banner.css);
