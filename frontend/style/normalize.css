@@ -17,7 +17,6 @@ a {
 	color: inherit;
 	text-decoration: none;
 	background-color: transparent;
-	font-family: inherit;
 }
 
 img {
@@ -31,7 +30,6 @@ optgroup,
 select,
 textarea {
 	margin: 0;
-	font-family: inherit;
 	font-size: 100%;
 	line-height: 1.15;
 }
