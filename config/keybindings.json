@@ -1,0 +1,26 @@
+[
+    { 
+        "key": "ctrl+shift+x", 
+        "command": "extension.ecsstractor_port_run", 
+        "when": "editorTextFocus" 
+    },
+    {
+        "key": "ctrl+shift+alt+p",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+    },
+    {
+        "key": "ctrl+shift+alt+o",
+        "command": "postcssSorting.execute"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "explorer.newFile",
+        "when": "explorerViewletFocus"
+    },
+    {
+        "key": "ctrl+shift+n",
+        "command": "explorer.newFolder",
+        "when": "explorerViewletFocus"
+    }
+]
