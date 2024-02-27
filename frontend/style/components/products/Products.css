@@ -1,0 +1,8 @@
+.Products__list {
+	display: grid;
+	grid-template: 1fr / repeat(4, 1fr);
+}
+.Products__item {
+	display: flex;
+	flex-direction: column;
+}
