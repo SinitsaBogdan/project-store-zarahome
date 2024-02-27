@@ -11,3 +11,7 @@
 @import url(/style/components/product/ProductAnimation.css);
 
 @import url(/style/components/paginations/Paginations.css);
+
+@import url(/style/components/catalog/Catalog.css);
+@import url(/style/components/category/Category.css);
+@import url(/style/components/category/CategoryAnimations.css);
