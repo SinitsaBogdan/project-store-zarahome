@@ -1,0 +1,59 @@
+.Social {
+	margin: 100px 0;
+}
+.Social__list {
+	display: flex;
+	column-gap: 40px;
+}
+.Social__item {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 415px;
+	height: 220px;
+	border-radius: 4%;
+	animation-name: Category_shadow_out;
+	animation-fill-mode: forwards;
+	animation-iteration-count: inherit;
+	animation-timing-function: ease-in-out;
+	cursor: pointer;
+	animation-duration: 0.5s;
+}
+
+.Social__item:hover {
+	animation-name: Category_shadow_in;
+	animation-fill-mode: forwards;
+	animation-iteration-count: inherit;
+	animation-timing-function: ease-in-out;
+	animation-duration: 0.5s;
+}
+.Social__item_out {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	width: 20px;
+	height: 20px;
+	animation-name: Shadow_out;
+	animation-fill-mode: forwards;
+	animation-iteration-count: inherit;
+	animation-timing-function: ease-in-out;
+	animation-duration: 0.5s;
+}
+.Social__item:hover .Social__item_out {
+	animation-name: Shadow_in;
+	animation-fill-mode: forwards;
+	animation-iteration-count: inherit;
+	animation-timing-function: ease-in-out;
+	animation-duration: 0.5s;
+}
+.Social__card {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	row-gap: 10px;
+}
+.Social__icon {
+	width: 80px;
+}
