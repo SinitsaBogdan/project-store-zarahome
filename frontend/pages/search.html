@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="../fonts/fonts.css" />
+		<link rel="stylesheet" href="../style/normalize.css" />
+		<link rel="stylesheet" href="../style/index.css" />
+		<title>Document</title>
+	</head>
+	<body>
+		<header class="Header">
+			<div class="Header__wrapper">
+				<div class="Header__content">
+					<div class="Header__contacts">
+						<a class="Header__phone" href="tel:+78000008000">8 (800) 000 80 00</a>
+						<p class="Header__schedule">Работаем сегодня с 9:00 до 20:00</p>
+					</div>
+					<a href="../pages/home.html" class="Header__logo_wrapper">
+						<img class="Header__logo" src="../images/logo.svg" alt="" />
+					</a>
+					<div class="Header__profile_wrapper">
+						<img class="Header__profile" src="../icons/profile.svg" alt="" />
+					</div>
+					<div class="Header__love_wrapper">
+						<img class="Header__love" src="../icons/love.svg" alt="" />
+					</div>
+					<div class="Header__cart_wrapper">
+						<img class="Header__cart" src="../icons/cart.svg" alt="" />
+						<span class="Header__cart_amount">12 440 ₽</span>
+					</div>
+				</div>
+				<nav class="Navigations">
+					<ul class="Navigations__list">
+						<li class="Navigations__item">
+							<a href="#!" class="Navigations__link"> Все товары </a>
+						</li>
+						<li class="Navigations__item">
+							<a
+								href="./search.html"
+								class="Navigations__link Navigations__link_active"
+							>
+								Найти товар
+							</a>
+						</li>
+						<li class="Navigations__item">
+							<a href="#!" class="Navigations__link">Скидки</a>
+						</li>
+						<li class="Navigations__item">
+							<a href="#new" class="Navigations__link">Новинки</a>
+						</li>
+						<li class="Navigations__item">
+							<a href="#informations" class="Navigations__link">Информация</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<main>
+			<section class="Search">
+				<input class="Search__input" type="text" placeholder="Что хотите найти?" value="кожан"/>
+                <ul class="Search__items">
+                    <li class="Search__item">
+                        <article class="Search_Product">
+                            <a href="#!" class="Search_Product__link">
+                                <img class="Search_Product__image" src="../images/search/products/item_1.png" alt="">
+                                <div class="Search_Product__content">
+                                    <h2 class="Search_Product__title">LEATHER STOOL</h2>
+                                    <p class="Search_Product__descriptions"><span class="text_select">Кожан</span> ый стул</p>
+                                    <p class="Search_Product__price">3 120 <span>₽</span></p>
+                                </div>
+                            </a>
+                        </article>
+                    </li>
+                    <li class="Search__item">
+                        <article class="Search_Product">
+                            <a href="#!" class="Search_Product__link">
+                                <div class="Search_Product__image_wrapper">
+                                    <img class="Search_Product__image" src="../images/search/products/item_2.png" alt="">
+                                </div>
+                                <div class="Search_Product__content">
+                                    <h2 class="Search_Product__title">CONTRAST LEATHER SANDALS</h2>
+                                    <p class="Search_Product__descriptions"><span class="text_select">Кожан</span>ые сандали</p>
+                                    <p class="Search_Product__price">4 500 <span>₽</span></p>
+                                </div>
+                            </a>
+                        </article>
+                    </li>
+                    <li class="Search__item">
+                        <article class="Search_Product">
+                            <a href="#!" class="Search_Product__link">
+                                <div class="Search_Product__image_wrapper">
+                                    <img class="Search_Product__image" src="../images/search/products/item_3.png" alt="">
+                                </div>
+                                <div class="Search_Product__content">
+                                    <h2 class="Search_Product__title">LEATHER SANDALS</h2>
+                                    <p class="Search_Product__descriptions"><span class="text_select">Кожан</span>ые сандали</p>
+                                    <p class="Search_Product__price">6 840 <span>₽</span></p>
+                                </div>
+                            </a>
+                        </article>
+                    </li>
+                    <li class="Search__item">
+                        <article class="Search_Product">
+                            <a href="#!" class="Search_Product__link">
+                                <div class="Search_Product__image_wrapper">
+                                    <img class="Search_Product__image" src="../images/search/products/item_4.png" alt="">
+                                </div>
+                                <div class="Search_Product__content">
+                                    <h2 class="Search_Product__title">LEATHER OBJECT HOLDER</h2>
+                                    <p class="Search_Product__descriptions"><span class="text_select">Кожан</span>ый чехол для очков</p>
+                                    <p class="Search_Product__price">3 120 <span>₽</span></p>
+                                </div>
+                            </a>
+                        </article>
+                    </li>
+                </ul>
+			</section>
+            <ul class="Search_Navigations">
+                <li class="Search_Navigations__item">
+                    <article class="ProductСhapter">
+                        <h2 class="ProductСhapter__title">Спальня</h2>
+                        <div class="Group Group__active">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon Group__icon_active"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ПОСТЕЛЬНОЕ БЕЛЬЕ</h3>
+                            </a>
+                            <ul class="Group__list">
+                                <li class="Group__item">
+                                    <a class="Group__link" href="#!">Смотреть все</a>
+                                </li>
+                                <li class="Group__item Group__item_active">
+                                    <a class="Group__link" href="#!">
+                                        Основное постельное белье
+                                    </a>
+                                </li>
+                                <li class="Group__item">
+                                    <a class="Group__link" href="#!">Пододеяльники</a>
+                                </li>
+                                <li class="Group__item">
+                                    <a class="Group__link" href="#!">Наволочки</a>
+                                </li>
+                                <li class="Group__item">
+                                    <a class="Group__link" href="#!">Простыни</a>
+                                </li>
+                                <li class="Group__item">
+                                    <a class="Group__link" href="#!">Плоские простыни</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">НАПОЛНИТЕЛИ И ПРОТЕКТОРЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ПОДШИПНИКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">МЕБЕЛЬ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">РУГИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЗЕРКАЛА</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ОСВЕЩЕНИЕ</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+                <li class="Search_Navigations__item">
+                    <article class="ProductCategory">
+                        <h2 class="ProductСhapter__title">Одежда и обувь</h2>
+                        <div class="Group">
+                            <div class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ОДЕЖДА</h3>
+                            </div>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ОБУВЬ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">
+                                    СУМКИ ДЛЯ ТУАЛЕТНЫХ ПРИНАДЛЕЖНОСТЕЙ
+                                </h3>
+                            </a >
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">КРЮЧКИ И ВЕШАЛКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">УХОД ЗА БЕЛЬЕМ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ПЛЯЖНАЯ ОДЕЖДА</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ХРАНЕНИЕ</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+                <li class="Search_Navigations__item">
+                    <article class="ProductCategory">
+                        <h2 class="ProductСhapter__title">Экстра</h2>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">КОЛЛЕКЦИЯ</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+                <li class="Search_Navigations__item">
+                    <article class="ProductCategory">
+                        <h2 class="ProductСhapter__title">Жилая комната</h2>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">МЕБЕЛЬ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">RUGS</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЗЕРКАЛА</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЛАМПЫ И ОСВЕЩЕНИЕ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">КУРТИРЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">CUSHIONS</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">НАПОЛНИТЕЛИ ДЛЯ ПОДУШЕК</h3>
+                            </div>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">БЛАНКЕТЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">БАСКЕТЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЗЕРКАЛА</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЛАМПЫ И ОСВЕЩЕНИЕ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ВАЗЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ФОТОРАМКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ДВЕРНЫЕ НОЖКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">КОРОБКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ПОДНОСЫ И ДЕРЖАТЕЛИ ДЛЯ МЕЛОЧЕЙ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ДЕКОРАТИВНЫЕ АКСЕССУАРЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">СВЕЧИ</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+                <li class="Search_Navigations__item">
+                    <article class="ProductCategory">
+                        <h2 class="ProductСhapter__title">Кухня</h2>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ПОСУДА И УТВАРЬ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">СОСУДЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ЧАЙНЫЕ ПОЛОТЕНЦА, ФАРТУКИ И СУМКИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">КУХОННЫЕ АКСЕССУАРЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">МЕБЕЛЬ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ОСВЕЩЕНИЕ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">ХРАНЕНИЕ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">СТИРКА И УБОРКА</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+                <li class="Search_Navigations__item">
+                    <article class="ProductCategory">
+                        <h2 class="ProductСhapter__title">Столовая</h2>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">СТОЛОВАЯ ПОСУДА</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">БОУЛЫ</h3>
+                            </a>
+                        </div>
+                        <div class="Group Group__blocked">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">МУГИ</h3>
+                            </a>
+                        </div>
+                        <div class="Group">
+                            <a href="#!" class="Group__link">
+                                <div class="Group__icon_wrapper">
+                                    <img
+                                        class="Group__icon"
+                                        src="../images/search/search_icon.svg"
+                                        alt=""
+                                    />
+                                </div>
+                                <h3 class="ProductCategory__title">СТЕКЛЯННАЯ ПОСУДА</h3>
+                            </a>
+                        </div>
+                    </article>
+                </li>
+            </ul>
+		</main>
+		<footer id="informations" class="Footer">
+			<nav class="Footer__nav">
+				<div class="Footer__section">
+					<h2 class="Footer__title">Магазин</h2>
+					<div class="Footer__wrapper">
+						<div class="Footer__column">
+							<a class="Footer__link" href="#!">Спальня</a>
+							<a class="Footer__link" href="#!">Одежда и обувь</a>
+							<a class="Footer__link" href="#!">Гостиная</a>
+							<a class="Footer__link" href="#!">Кухня</a>
+							<a class="Footer__link" href="../pages/category.html">Ванная комната</a>
+						</div>
+						<div class="Footer__column">
+							<a class="Footer__link" href="#!">Экстра</a>
+							<a class="Footer__link" href="#!">Для детей</a>
+						</div>
+					</div>
+				</div>
+				<div class="Footer__section Footer__section_central">
+					<h2 class="Footer__title">Помощь</h2>
+					<a class="Footer__link" href="#!">Информация о сроках доставки</a>
+					<a class="Footer__link" href="#!">Пользовательское соглашение</a>
+				</div>
+				<div class="Footer__section no_border">
+					<h2 class="Footer__title">Контакты</h2>
+					<a href="#!">info@зарахоум.рф</a>
+				</div>
+			</nav>
+			<p class="Footer__descriptions">
+				Содержание этого сайта защищено авторским правом и является собственностью ZARAHOME.
+				ZARAHOME стремится к доступности.
+			</p>
+			<img class="Footer__logo" src="../images/logo.svg" alt="" />
+			<p class="Footer__rights">© 2023 ZARAHOME. Все права защищены.</p>
+		</footer>
+	</body>
+</html>

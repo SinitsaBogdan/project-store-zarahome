@@ -1,0 +1,28 @@
+.Crumbs {
+	display: inline-flex;
+	align-items: center;
+	column-gap: 10px;
+	margin-bottom: 32px;
+	font-size: 14px;
+}
+.Crumbs__item {
+	font-size: 16px;
+	font-weight: 600;
+}
+.Crumbs__item:not(:first-child)::before {
+	content: url('../../../images/category/arow.svg');
+	margin-right: 10px;
+}
+.Crumbs__item:not(:last-child) {
+	color: var(--color-gray-30);
+}
+.Crumbs__item:last-child {
+	color: var(--color-gray-60);
+}
+.Crumbs__img_wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 17px;
+	height: 17px;
+}

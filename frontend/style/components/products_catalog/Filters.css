@@ -1,0 +1,21 @@
+.Filters {
+	display: inline-flex;
+	column-gap: 30px;
+	width: 100%;
+	align-items: center;
+	justify-content: flex-end;
+	margin-bottom: 30px;
+}
+.Filters__link {
+	display: inline-flex;
+	align-items: center;
+	justify-content: stretch;
+	column-gap: 10px;
+}
+.Filters__title {
+	line-height: 0;
+}
+.Filters__image_wrapper {
+	width: 24px;
+	height: 24px;
+}

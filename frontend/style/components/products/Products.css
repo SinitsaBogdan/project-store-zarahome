@@ -5,9 +5,9 @@
 }
 .Products__list {
 	display: grid;
-	margin: 0 70px;
 	grid-template: 1fr / repeat(4, 1fr);
-	padding: 40px 0 50px;
+	padding: 50px 0;
+	grid-gap: 50px;
 }
 .Products__item {
 	display: flex;

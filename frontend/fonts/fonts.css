@@ -35,7 +35,7 @@
 }
 @font-face {
 	font-family: 'Ysabeau SC';
-	src: url(./fonts/YsabeauSC-ExtraLight.ttf) format('truetype');
+	src: url(./YsabeauSC-ExtraLight.ttf) format('truetype');
 	font-weight: 200;
 }
 @font-face {

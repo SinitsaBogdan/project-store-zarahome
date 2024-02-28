@@ -1,0 +1,23 @@
+.Page__Products_Catalog {
+	position: relative;
+	display: flex;
+	justify-content: stretch;
+	column-gap: 30px;
+	margin-top: 45px;
+}
+.Products_Catalog {
+	width: 100%;
+}
+.Products_Catalog__title {
+}
+.Products_Catalog__list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	row-gap: 40px;
+	column-gap: 40px;
+}
+.Products_Catalog__item {
+	width: 31%;
+}

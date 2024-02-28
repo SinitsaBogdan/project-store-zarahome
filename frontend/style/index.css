@@ -21,5 +21,22 @@
 
 @import url(/style/components/questions/Questions.css);
 
-@import url(/style/components/social/Social.css);
-@import url(/style/components/social/SocialAnimations.css);
+@import url(../style/components/questions/Questions.css);
+
+@import url(../style/components/social/Social.css);
+@import url(../style/components/social/SocialAnimations.css);
+
+@import url(../style/components/serch/Search.css);
+@import url(../style/components/serch/Search_Product.css);
+@import url(../style/components/serch/ProductСhapter.css);
+@import url(../style/components/serch/Search_Navigations.css);
+@import url(../style/components/serch/Search_Product.css);
+@import url(../style/components/serch/Search_ProductAnimation.css);
+@import url(../style/components/serch/Group.css);
+
+@import url(../style/components/products_catalog/Products_Catalog.css);
+@import url(../style/components/products_catalog/Navbar.css);
+@import url(../style/components/products_catalog/Crumbs.css);
+@import url(../style/components/products_catalog/Filters.css);
+
+@import url(../style/components/footer/Footer.css);

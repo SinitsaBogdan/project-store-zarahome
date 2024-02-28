@@ -1,0 +1,116 @@
+.Navbar {
+	position: sticky;
+	top: 200px;
+	height: min-content;
+}
+.Navbar__title {
+	color: var(--color-gray-30);
+	font-size: 16px;
+}
+.Navbar__list {
+	display: flex;
+	flex-direction: column;
+	row-gap: 16px;
+}
+.Navbar_Сhapter {
+}
+.Navbar_Сhapter__link {
+	display: inline-flex;
+	column-gap: 10px;
+	align-items: center;
+}
+.Navbar_Сhapter__link_activ .Navbar_Сhapter__icon,
+.Navbar_Group__link_activ .Navbar_Сhapter__icon {
+	transform: rotate(90deg);
+}
+.Navbar_Сhapter__icon {
+	width: 14px;
+}
+.Navbar__link {
+}
+.Navbar_Сhapter__title {
+	font-size: 18px;
+}
+.Navbar_Сhapter__list {
+	padding-top: 8px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 8px;
+	margin-left: 24px;
+}
+.Navbar_Group {
+	position: relative;
+}
+.Navbar_Group__empty {
+	color: var(--color-gray-50);
+}
+.Navbar_Group__empty .Navbar_Сhapter__icon {
+	opacity: 0;
+}
+.Navbar_Group__list__activ::after {
+	position: absolute;
+	content: '';
+	top: 14px;
+	left: 6px;
+	width: 2px;
+	height: 90%;
+	background-color: black;
+}
+.Navbar_Group__list {
+	padding-top: 6px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 6px;
+	margin-left: 24px;
+}
+.Navbar_Group__link {
+	display: inline-flex;
+	column-gap: 10px;
+}
+.Navbar_Group__title {
+	font-size: 18px;
+	font-weight: 900;
+}
+.Navbar_Category {
+	position: relative;
+	color: var(--color-gray-60);
+}
+.Navbar_Category__deactiv::before {
+	content: '';
+	left: -20px;
+	top: 10px;
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	border-radius: 100%;
+	border: 2px solid black;
+}
+.Navbar_Category__activ {
+	text-decoration: underline;
+	text-underline-offset: 4px;
+	color: var(--color-gray-100);
+}
+.Navbar_Category__activ::before {
+	content: '';
+	left: -23px;
+	top: 10px;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	border: 2px solid black;
+	background-color: white;
+	z-index: 10;
+}
+.Navbar_Category__link__active::before {
+	content: '';
+	left: -23px;
+	top: 7px;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	border: 2px solid black;
+}
+.Navbar_Category__link {
+}

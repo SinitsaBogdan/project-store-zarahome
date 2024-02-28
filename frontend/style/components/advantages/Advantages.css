@@ -5,17 +5,6 @@
 	align-items: center;
 	margin: 80px 0;
 }
-.Advantages__header {
-	margin-bottom: 30px;
-	text-align: center;
-}
-.Advantages__header_title {
-	font-size: 42px;
-}
-.Advantages__header_descriptions {
-	margin: 20px 0 4px 0;
-	font-size: 16px;
-}
 .Advantages__wrapper {
 	position: relative;
 	display: flex;

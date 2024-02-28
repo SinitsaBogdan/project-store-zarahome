@@ -1,0 +1,21 @@
+.Navigations {
+	width: 100%;
+	padding: 30px 0 20px;
+	box-shadow: 0px -16px 12px -12px rgb(0, 0, 0, 0.15);
+}
+.Navigations__list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 40px;
+	width: 100%;
+}
+.Navigations__link {
+	border-bottom: none;
+}
+.Navigations__link:hover {
+	border-bottom: 2px solid rgb(0, 0, 0, 0.8);
+}
+.Navigations__link_active {
+	border-bottom: 2px solid rgb(0, 0, 0, 0.5);
+}
