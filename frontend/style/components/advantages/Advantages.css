@@ -1,0 +1,107 @@
+.Advantages {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 80px 0;
+}
+.Advantages__header {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.Advantages__header_title {
+	font-size: 42px;
+}
+.Advantages__header_descriptions {
+	margin: 20px 0 4px 0;
+	font-size: 16px;
+}
+.Advantages__wrapper {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 856px;
+	padding: 40px 30px 20px;
+	box-shadow: 0 0 30px 6px rgb(0, 0, 0, 0.2);
+	background-color: white;
+}
+.Advantages__image_left {
+	position: absolute;
+	top: -90px;
+	left: -280px;
+	z-index: -1;
+	width: 400px;
+}
+.Advantages__image_right {
+	position: absolute;
+	top: 60px;
+	right: -126px;
+	z-index: -1;
+	width: 200px;
+}
+.Advantages__content {
+	display: flex;
+	justify-content: center;
+	align-items: start;
+	border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+	padding-top: 10px;
+}
+.Advantages__content_block {
+	width: 346px;
+	padding: 0 20px 30px;
+}
+.Advantages__content_left {
+	border-right: 1px solid rgb(0, 0, 0, 0.2);
+	text-align: right;
+}
+.Advantages__content_title {
+	font-size: 32px;
+}
+.Advantages__content_descriptions {
+	font-size: 16px;
+}
+.Advantages___about_title {
+	padding-top: 25px;
+	font-size: 32px;
+}
+.Advantages__about_descriptions {
+	margin-bottom: 10px;
+	font-size: 16px;
+	text-align: center;
+}
+.Advantages__list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 60px;
+}
+.Advantages__item {
+	width: 33%;
+	text-align: center;
+}
+.Advantages__item_title {
+	font-weight: 500;
+	font-size: 94px;
+	line-height: 70px;
+}
+.Advantages__item_descriptions {
+	margin-top: 30px;
+}
+.Advantages__estimation_list {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	column-gap: 14px;
+	margin-top: 40px;
+}
+.Advantages__estimation_image__small {
+	width: 20px;
+}
+.Advantages__estimation_image__medium {
+	width: 28px;
+}
+.Advantages__estimation_image__big {
+	width: 36px;
+}

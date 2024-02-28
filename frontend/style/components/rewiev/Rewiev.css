@@ -1,0 +1,25 @@
+.Reviews {
+    margin-top: 30px;
+    position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+.Reviews::after {
+    position: absolute;
+	content: '';
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+
+.Reviews__icon {
+	width: 36px;
+}
+.Reviews__link {
+    font-size: 16px;
+    font-weight: 600;
+}
