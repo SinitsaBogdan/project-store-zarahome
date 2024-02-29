@@ -1,0 +1,33 @@
+.Search_Product {
+	width: 350px;
+}
+.Search_Product__link {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	column-gap: 20px;
+}
+.Search_Product__image {
+	width: 116px;
+	height: 116px;
+	object-fit: 1;
+	object-position: center;
+}
+.Search_Product__content {
+	display: flex;
+	flex-direction: column;
+	height: 116px;
+}
+.Search_Product__title {
+	font-weight: 700;
+	font-size: 18px;
+}
+.Search_Product__descriptions {
+	font-size: 16px;
+}
+.Search_Product__price {
+	font-family: Roboto, sans-serif;
+	margin-top: auto;
+	font-weight: 500;
+	font-size: 28px;
+}

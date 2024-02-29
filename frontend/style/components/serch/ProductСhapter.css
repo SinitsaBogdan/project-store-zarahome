@@ -1,0 +1,13 @@
+.ProductСhapter {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+	min-width: 90%;
+}
+.ProductСhapter__title {
+	margin-bottom: 20px;
+	font-weight: 900;
+	font-size: 32px;
+	text-align: left;
+}

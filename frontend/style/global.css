@@ -10,11 +10,9 @@ body {
 	font-family: 'Ysabeau SC', sans-serif;
 	font-size: 18px;
 }
-
 ul {
 	list-style: none;
 }
-
 .Header__section {
 	margin: 60px 0 40px;
 	display: flex;

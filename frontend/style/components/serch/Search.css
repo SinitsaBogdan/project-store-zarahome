@@ -1,0 +1,41 @@
+.Search {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.Search__input {
+	width: 100%;
+	padding: 10px 0 10px;
+	color: inherit;
+	font-family: inherit;
+	font-weight: 800;
+	letter-spacing: 1.2px;
+	font-size: inherit;
+	text-align: center;
+}
+.Search__items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: stretch;
+	align-items: self-start;
+	gap: 20px;
+	width: 100%;
+	padding: 40px 8%;
+}
+.Search__item {
+	padding: 16px 16px;
+	animation-name: Search__item_out;
+	animation-fill-mode: forwards;
+	animation-timing-function: linear;
+	cursor: pointer;
+	animation-duration: 0.3s;
+}
+.Search__item:hover {
+	animation-name: Search__item_in;
+	animation-fill-mode: forwards;
+	animation-iteration-count: inherit;
+	animation-timing-function: ease-in-out;
+	cursor: pointer;
+	animation-duration: 0.3s;
+}

@@ -1,0 +1,8 @@
+.Search_Navigations {
+	width: 100%;
+	margin-top: 30px;
+	column-count: 4;
+}
+.Search_Navigations__item {
+	break-inside: avoid-column;
+}

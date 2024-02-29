@@ -1,25 +1,26 @@
-@import url(/style/var.css);
-@import url(/style/global.css);
+@import url(../style/var.css);
+@import url(../style/global.css);
 
-@import url(/style/components/header/Header.css);
-@import url(/style/components/header/Navigations.css);
+@import url(../style/components/header/Header.css);
+@import url(../style/components/header/Navigations.css);
 
-@import url(/style/components/banner/Banner.css);
+@import url(../style/components/serch/Search.css);
 
-@import url(/style/components/products/Products.css);
-@import url(/style/components/product/Product.css);
-@import url(/style/components/product/ProductAnimation.css);
+@import url(../style/components/banner/Banner.css);
 
-@import url(/style/components/paginations/Paginations.css);
+@import url(../style/components/products/Products.css);
+@import url(../style/components/product/Product.css);
+@import url(../style/components/product/ProductAnimation.css);
 
-@import url(/style/components/catalog/Catalog.css);
-@import url(/style/components/category/Category.css);
-@import url(/style/components/category/CategoryAnimations.css);
+@import url(../style/components/paginations/Paginations.css);
+@import url(../style/components/paginations/PaginationsAnimations.css);
 
-@import url(/style/components/rewiev/Rewiev.css);
-@import url(/style/components/advantages/Advantages.css);
+@import url(../style/components/catalog/Catalog.css);
+@import url(../style/components/category/Category.css);
+@import url(../style/components/category/CategoryAnimations.css);
 
-@import url(/style/components/questions/Questions.css);
+@import url(../style/components/rewiev/Rewiev.css);
+@import url(../style/components/advantages/Advantages.css);
 
 @import url(../style/components/questions/Questions.css);
 
