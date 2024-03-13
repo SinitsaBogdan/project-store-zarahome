@@ -1,0 +1,182 @@
+[
+	{
+		"id": 1,
+		"href": "",
+		"img": "/images/products/item_1.png",
+		"alt": "",
+		"title": "ROUND BASKET",
+		"description": "Плетеная джутовая корзина",
+		"price": "2 840",
+		"tag": "new"
+	},
+	{
+		"id": 2,
+		"href": "",
+		"img": "/images/products/item_2.png",
+		"alt": "",
+		"title": "LEATHER STOOL",
+		"description": "Кожаный стул",
+		"price": "3 120",
+		"tag": "new"
+	},
+	{
+		"id": 3,
+		"href": "",
+		"img": "/images/products/item_3.png",
+		"alt": "",
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "new"
+	},
+	{
+		"id": "4",
+		"href": "",
+		"img": "/images/products/item_4.png",
+		"alt": "",
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "new"
+	},
+	{
+		"id": 4,
+		"href": "",
+		"img": "/images/products/item_5.png",
+		"alt": "",
+		"title": "ROUND BASKET",
+		"description": "Плетеная джутовая корзина",
+		"price": "2 840",
+		"tag": "discounts"
+	},
+	{
+		"id": 5,
+		"href": "",
+		"img": "/images/products/item_6.png",
+		"alt": "",
+		"title": "ROUND BASKET",
+		"description": "Плетеная джутовая корзина",
+		"price": "2 840",
+		"tag": "discounts"
+	},
+	{
+		"id": 6,
+		"href": "",
+		"img": "/images/products/item_7.png",
+		"alt": "",
+		"title": "LEATHER STOOL",
+		"description": "Кожаный стул",
+		"price": "3 120",
+		"tag": "discounts"
+	},
+	{
+		"id": 7,
+		"href": "",
+		"img": "/images/products/item_8.png",
+		"alt": "",
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "discounts"
+	},
+	{
+		"id": 8,
+		"href": "",
+		"img": "/images/products/item_9.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 9,
+		"href": "",
+		"img": "/images/products/item_10.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 10,
+		"href": "",
+		"img": "/images/products/item_11.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 11,
+		"href": "",
+		"img": "/images/products/item_12.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 12,
+		"href": "",
+		"img": "/images/products/item_13.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 13,
+		"href": "",
+		"img": "/images/products/item_14.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 14,
+		"href": "",
+		"img": "/images/products/item_15.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 15,
+		"href": "",
+		"img": "/images/products/item_16.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 16,
+		"href": "",
+		"img": "/images/products/item_17.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	},
+	{
+		"id": 17,
+		"href": "",
+		"img": "/images/products/item_18.png",
+		"alt": "",
+		"title": "",
+		"description": "",
+		"price": "",
+		"tag": ""
+	}
+]

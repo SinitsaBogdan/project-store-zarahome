@@ -1,0 +1,30 @@
+.Product {
+	position: relative;
+	width: 100%;
+}
+.Product__image {
+	flex-grow: 1;
+	height: 326px;
+	object-fit: cover;
+}
+.Product__content {
+	margin-left: 10px;
+}
+.Product__title {
+	margin-top: 18px;
+	font-size: 18px;
+}
+.Product__description {
+	margin-bottom: 20px;
+	color: var(--color-text-gray);
+	font-weight: 500;
+	font-size: 16px;
+}
+.Product__price_wrapper {
+	display: grid;
+	grid-template: 50px / 1fr 152px;
+}
+.Product__price {
+	font-weight: 900;
+	font-size: 30px;
+}
