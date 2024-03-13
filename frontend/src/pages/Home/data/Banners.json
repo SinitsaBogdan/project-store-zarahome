@@ -1,0 +1,18 @@
+[
+	{
+		"image": "/images/banners/item_1.png",
+		"alt": "Новое поступление",
+		"title": "Новое поступление",
+		"descriptions": "Коллекции этого сезона",
+		"link": "/new-products",
+		"linkText": "Смотреть все новинки"
+	},
+	{
+		"image": "/images/banners/item_2.png",
+		"alt": "Скидки до 70%",
+		"title": "Скидки до 70%",
+		"descriptions": "На самые популярные товары",
+		"link": "/discounts",
+		"linkText": "Смотреть все скидки"
+	}
+]
