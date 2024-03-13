@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Все товары",
+		"url": "/"
+	},
+	{
+		"title": "Каталог",
+		"url": "/catalog"
+	},
+	{
+		"title": "Найти товар",
+		"url": "/search"
+	},
+	{
+		"title": "Скидки",
+		"url": "/discounts"
+	},
+	{
+		"title": "Новинки",
+		"url": "/new-products"
+	},
+	{
+		"title": "Информация",
+		"url": "/"
+	}
+]
