@@ -1,0 +1,6 @@
+:root {
+	--color-gray-100: rgb(0, 0, 0, 1);
+	--color-gray-50: rgba(0, 0, 0, 0.5);
+	--color-gray-60: rgba(0, 0, 0, 0.6);
+	--color-gray-30: rgba(0, 0, 0, 0.3);
+}
