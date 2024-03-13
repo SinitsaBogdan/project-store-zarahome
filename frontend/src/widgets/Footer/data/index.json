@@ -1,0 +1,54 @@
+[
+	{
+		"store": {
+			"first": [
+				{
+					"title": "Спальня",
+					"url": "http://localhost:3000/"
+				},
+				{
+					"title": "Одежда и обувь",
+					"url": "http://localhost:3000/"
+				},
+				{
+					"title": "Гостиная",
+					"url": "http://localhost:3000/"
+				},
+				{
+					"title": "Кухня",
+					"url": "http://localhost:3000/"
+				},
+				{
+					"title": "Ванная комната",
+					"url": "http://localhost:3000/"
+				}
+			],
+			"last": [
+				{
+					"title": "Экстра",
+					"url": "http://localhost:3000/"
+				},
+				{
+					"title": "Для детей",
+					"url": "http://localhost:3000/"
+				}
+			]
+		},
+		"helpers": [
+			{
+				"title": "Информация о сроках доставки",
+				"url": "http://localhost:3000/"
+			},
+			{
+				"title": "Пользовательское соглашение",
+				"url": "http://localhost:3000/"
+			}
+		],
+		"contacts": [
+			{
+				"title": "info@зарахоум.рф",
+				"mailto": "mailto:info@зарахоум.рф"
+			}
+		]
+	}
+]
