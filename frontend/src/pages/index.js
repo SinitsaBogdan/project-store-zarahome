@@ -1,0 +1,11 @@
+export { default as AdressPage } from './Adress';
+export { default as CartPage } from './Cart';
+export { default as CatalogPage } from './Catalog';
+export { default as EditEmailPage } from './EditEmail';
+export { default as EditPasswordPage } from './EditPassword';
+export { default as HistoryPage } from './History';
+export { default as HomePage } from './Home';
+export { default as MailPage } from './Mail';
+export { default as OrderPage } from './Order';
+export { default as ProductPage } from './Product';
+export { default as SearchPage } from './Search';
