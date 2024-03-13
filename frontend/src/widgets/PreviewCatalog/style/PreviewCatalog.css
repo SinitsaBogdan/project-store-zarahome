@@ -1,0 +1,16 @@
+.PreviewCatalog {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.PreviewCatalog__list {
+	display: grid;
+	width: 100%;
+	grid-template: 1fr / repeat(4, 1fr);
+	padding: 50px 0;
+	grid-gap: 20px;
+}
+.PreviewCatalog__item {
+	display: flex;
+	flex-direction: column;
+}
