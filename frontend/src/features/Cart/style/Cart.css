@@ -1,0 +1,9 @@
+.root {
+	display: flex;
+	align-items: center;
+	column-gap: 100px;
+}
+.amount {
+	font-weight: var(--font-weight-semi-bold);
+	font-size: var(--font-size-22);
+}
