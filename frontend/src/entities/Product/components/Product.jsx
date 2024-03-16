@@ -9,18 +9,18 @@ import { FormSelectColor, Pagination } from '../../../features';
 export default function Product({ href, img, alt, title, description, price }) {
 	return (
 		<article className='Product'>
-			<a href={href} class='Product__link'>
-				<img class='Product__image' src={img} alt={alt} />
+			<a href={href} className='Product__link'>
+				<img className='Product__image' src={img} alt={alt} />
 				<Pagination />
 				<LikeButtonUI />
 				<FormSelectColor />
-				<div class='Product__content'>
-					<h2 class='Product__title'>{title}</h2>
-					<p class='Product__description'>{description}</p>
-					<div class='Product__price_wrapper'>
-						<p class='Product__price'>
+				<div className='Product__content'>
+					<h2 className='Product__title'>{title}</h2>
+					<p className='Product__description'>{description}</p>
+					<div className='Product__price_wrapper'>
+						<p className='Product__price'>
 							{price}
-							<span class='Product__price_kurs'>₽</span>
+							<span className='Product__price_kurs'>₽</span>
 						</p>
 						<CartButtonUI />
 					</div>
