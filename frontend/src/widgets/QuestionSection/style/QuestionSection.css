@@ -1,0 +1,16 @@
+.QuestionSection {
+	margin: 160px 0 60px;
+}
+.QuestionSection__header_title {
+	font-size: 42px;
+}
+.QuestionSection__header_descriptions {
+	margin-top: 4px;
+	font-size: 22px;
+}
+.QuestionSection__list {
+	margin: 50px 126px 0;
+	display: flex;
+	flex-direction: column;
+	row-gap: 30px;
+}
