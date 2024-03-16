@@ -1,7 +1,16 @@
 import React from 'react';
 
 // Widgets
-import { Banner, Footer, Header, PartitionSection, PreviewCatalog } from '../../../widgets';
+import {
+	Advantages,
+	Banner,
+	Footer,
+	Header,
+	PartitionSection,
+	PreviewCatalog,
+	QuestionSection,
+	SocialSection,
+} from '../../../widgets';
 
 // Data
 import Banners from '../data/Banners.json';
@@ -15,6 +24,9 @@ export default function HomePage() {
 			<Banner data={Banners[1]} />
 			<PreviewCatalog sort='discounts' />
 			<PartitionSection />
+			<Advantages />
+			<QuestionSection />
+			<SocialSection />
 			<Footer />
 		</>
 	);
