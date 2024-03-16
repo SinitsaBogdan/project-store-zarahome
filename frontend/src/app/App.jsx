@@ -10,6 +10,7 @@ import {
 	HomePage,
 	OrderPage,
 	ProductPage,
+	ReviewsPage,
 	SearchPage,
 } from '../pages';
 
@@ -22,7 +23,9 @@ export default function App() {
 			<Route path='/discounts' element={<CatalogPage />} />
 			<Route path='/new-products' element={<CatalogPage />} />
 			<Route path='/search' element={<SearchPage />} />
+			<Route path='/reviews' element={<ReviewsPage />} />
 			<Route path='/product/:id' element={<ProductPage />} />
+			<Route path='/product/:id/reviews' element={<ProductPage />} />
 			<Route path='/user/:userId/cart' element={<CartPage />} />
 			<Route path='/user/:userId/history/orderId' element={<OrderPage />} />
 			<Route path='/user/:userId/edit/mail' element={<EditEmailPage />} />
