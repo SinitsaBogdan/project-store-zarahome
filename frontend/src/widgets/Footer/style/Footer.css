@@ -37,7 +37,7 @@
 .Footer__navLink {
 	font-size: var(--font-size-small);
 	line-height: 24px;
-	color: var(--color-gray-50);
+	color: var(--color-gray-80);
 }
 .Footer__section {
 	display: flex;
