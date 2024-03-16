@@ -1,0 +1,35 @@
+.Partition {
+	position: relative;
+}
+.Partition__img_wrapper {
+	max-width: 460px;
+	max-height: 460px;
+	margin-bottom: 50px;
+}
+.Partition__img {
+	object-fit: cover;
+	object-position: center;
+}
+.Partition__content {
+	position: absolute;
+	bottom: -50px;
+	left: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 380px;
+	height: 190px;
+	text-align: center;
+	box-shadow: 0 0 20px 4px rgb(0, 0, 0, 0.2);
+	background-color: white;
+}
+.Partition__title {
+	font-weight: 300;
+	font-size: 34px;
+}
+.Partition__text {
+	width: 80%;
+	margin-top: 20px;
+	font-weight: 300;
+}
