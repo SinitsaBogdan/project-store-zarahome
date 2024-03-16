@@ -1,5 +1,74 @@
 [
-    {
-        
-    }
+	{
+		"id": 1,
+		"href": "#!",
+		"img": "/images/category/item_1.png",
+		"alt": "Спальня",
+		"title": "Спальня",
+		"description": "Для комфортного сна и отдыха"
+	},
+	{
+		"id": 2,
+		"href": "#!",
+		"img": "/images/category/item_2.png",
+		"alt": "Одежда и обувь",
+		"title": "Одежда и обувь",
+		"description": "Для вашего персонального комфорта"
+	},
+	{
+		"id": 3,
+		"href": "#!",
+		"img": "/images/category/item_3.png",
+		"alt": "Гостинная",
+		"title": "Гостинная",
+		"description": "Место притяжения для всей семьи"
+	},
+	{
+		"id": 4,
+		"href": "#!",
+		"img": "/images/category/item_4.png",
+		"alt": "Кухня",
+		"title": "Кухня",
+		"description": "Для комфортного сна и отдыха"
+	},
+	{
+		"id": 5,
+		"href": "#!",
+		"img": "/images/category/item_5.png",
+		"alt": "Ванная комната",
+		"title": "Ванная комната",
+		"description": "Для вашего персонального комфорта"
+	},
+	{
+		"id": 6,
+		"href": "#!",
+		"img": "/images/category/item_6.png",
+		"alt": "Столовая",
+		"title": "Столовая",
+		"description": "Место притяжения для всей семьи"
+	},
+	{
+		"id": 7,
+		"href": "#!",
+		"img": "/images/category/item_7.png",
+		"alt": "Ароматы для дома",
+		"title": "Ароматы для дома",
+		"description": "Для комфортного сна и отдыха"
+	},
+	{
+		"id": 8,
+		"href": "#!",
+		"img": "/images/category/item_8.png",
+		"alt": "Детская",
+		"title": "Детская",
+		"description": "Для вашего персонального комфорта"
+	},
+	{
+		"id": 9,
+		"href": "#!",
+		"img": "/images/category/item_9.png",
+		"alt": "Домашние животные",
+		"title": "Домашние животные",
+		"description": "Место притяжения"
+	}
 ]
