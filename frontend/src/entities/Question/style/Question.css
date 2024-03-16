@@ -1,0 +1,46 @@
+.Question {
+	position: relative;
+	width: 100%;
+	border: 0;
+	padding-left: 50px;
+	font-family: inherit;
+	font-weight: inherit;
+	font-size: inherit;
+	text-align: left;
+	background-color: inherit;
+}
+.Question__active {
+	padding: 50px 50px;
+	box-shadow: 0 5px 10px rgb(0, 0, 0, 0.2);
+}
+.Question__arrow::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 30px;
+	height: 30px;
+	background-image: url('../../../shared/assets/icon/arrow.svg');
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.Question__active .Question__arrow::after {
+	transform: rotate(90deg);
+}
+.Question__title {
+	display: block;
+	width: 70%;
+	font-weight: 900;
+	font-size: 22px;
+	line-height: 30px;
+}
+.Question:hover .Question__title {
+	text-decoration: underline;
+}
+.Question__descriptions {
+	display: none;
+}
+.Question__active .Question__descriptions {
+	display: block;
+	margin-top: 30px;
+}
