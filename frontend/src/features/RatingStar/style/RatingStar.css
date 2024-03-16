@@ -1,0 +1,34 @@
+.RatingStar {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	column-gap: 10px;
+	width: 100%;
+	height: 40px;
+	margin-top: 40px;
+}
+.RatingStar li {
+	position: relative;
+	height: 100%;
+}
+.RatingStar li::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: url('../../../../public/images/advantages/star.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+.RatingStar__image__small {
+	width: 22px;
+}
+.RatingStar__image__medium {
+	width: 28px;
+}
+.RatingStar__image__big {
+	width: 36px;
+}
