@@ -4,6 +4,7 @@
 	align-items: center;
 	row-gap: 34px;
 	width: 100%;
+	padding-bottom: 20px;
 }
 .Footer__nav {
 	position: relative;
@@ -68,4 +69,7 @@
 .Footer__rights {
 	font-size: var(--font-size-small-exstra);
 	color: var(--color-gray-100);
+}
+.Footer .Logo {
+	margin-top: 30%;
 }

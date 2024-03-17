@@ -63,13 +63,13 @@ export default function Footer() {
 							</li>
 						);
 					})}
+					<LogoUI />
 				</div>
 			</nav>
 			<p className='Footer__descriptions'>
 				Содержание этого сайта защищено авторским правом и является собственностью ZARAHOME.
 				ZARAHOME стремится к доступности.
 			</p>
-			<LogoUI />
 			<p className='Footer__rights'>© 2023 ZARAHOME. Все права защищены.</p>
 		</footer>
 	);
