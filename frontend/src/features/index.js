@@ -4,3 +4,7 @@ export { default as FormSelectColor } from './FormSelectColor';
 export { default as Pagination } from './Pagination';
 export { default as RatingStar } from './RatingStar';
 export { default as Reviews } from './Reviews';
+export { default as Search } from './Search';
+export { default as NavBar } from './NavBar';
+export { default as Crumbs } from './Сrumbs';
+export { default as Filters } from './Filters';
