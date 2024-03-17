@@ -1,0 +1,9 @@
+.Directory {
+	padding: 50px 0;
+	column-count: 4;
+}
+.Directory_item {
+	width: 100%;
+	break-inside: avoid-column;
+	margin-bottom: 50px;
+}
