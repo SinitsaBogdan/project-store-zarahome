@@ -21,6 +21,9 @@
 	font-weight: 600;
 	font-size: 20px;
 }
+.Header .Logo {
+	margin-left: -100px;
+}
 .Header__schedule {
 	padding-top: 10px;
 	color: var(--color-text-gray);
