@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import '../style/Product.css';
 import { CartButtonUI, LikeButtonUI } from '../../../shared/ui';
@@ -9,7 +9,7 @@ import { FormSelectColor, Pagination } from '../../../features';
 export default function Product({ href, img, alt, title, description, price }) {
 	return (
 		<article className='Product'>
-			<a href={href} className='Product__link'>
+			<Link to={href} className='Product__link'>
 				<img className='Product__image' src={img} alt={alt} />
 				<Pagination />
 				<LikeButtonUI />
@@ -25,7 +25,7 @@ export default function Product({ href, img, alt, title, description, price }) {
 						<CartButtonUI />
 					</div>
 				</div>
-			</a>
+			</Link>
 		</article>
 	);
 }

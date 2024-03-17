@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"href": "",
+		"href": "//product/1",
 		"img": "/images/products/item_1.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -11,7 +11,7 @@
 	},
 	{
 		"id": 2,
-		"href": "",
+		"href": "/product/1",
 		"img": "/images/products/item_2.png",
 		"alt": "",
 		"title": "LEATHER STOOL",
@@ -21,7 +21,7 @@
 	},
 	{
 		"id": 3,
-		"href": "",
+		"href": "/product/1",
 		"img": "/images/products/item_3.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -30,8 +30,8 @@
 		"tag": "new"
 	},
 	{
-		"id": "4",
-		"href": "",
+		"id": 4,
+		"href": "/product/1",
 		"img": "/images/products/item_4.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -40,8 +40,8 @@
 		"tag": "new"
 	},
 	{
-		"id": 4,
-		"href": "",
+		"id": 5,
+		"href": "/product/1",
 		"img": "/images/products/item_5.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -50,8 +50,8 @@
 		"tag": "discounts"
 	},
 	{
-		"id": 5,
-		"href": "",
+		"id": 6,
+		"href": "/product/1",
 		"img": "/images/products/item_6.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -60,8 +60,8 @@
 		"tag": "discounts"
 	},
 	{
-		"id": 6,
-		"href": "",
+		"id": 7,
+		"href": "/product/1",
 		"img": "/images/products/item_7.png",
 		"alt": "",
 		"title": "LEATHER STOOL",
@@ -70,8 +70,8 @@
 		"tag": "discounts"
 	},
 	{
-		"id": 7,
-		"href": "",
+		"id": 8,
+		"href": "/product/1",
 		"img": "/images/products/item_8.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -80,8 +80,8 @@
 		"tag": "discounts"
 	},
 	{
-		"id": 8,
-		"href": "",
+		"id": 9,
+		"href": "/product/1",
 		"img": "/images/products/item_9.png",
 		"alt": "",
 		"title": "",
@@ -90,8 +90,8 @@
 		"tag": ""
 	},
 	{
-		"id": 9,
-		"href": "",
+		"id": 10,
+		"href": "/product/1",
 		"img": "/images/products/item_10.png",
 		"alt": "",
 		"title": "",
@@ -100,8 +100,8 @@
 		"tag": ""
 	},
 	{
-		"id": 10,
-		"href": "",
+		"id": 11,
+		"href": "/product/1",
 		"img": "/images/products/item_11.png",
 		"alt": "",
 		"title": "",
@@ -110,73 +110,93 @@
 		"tag": ""
 	},
 	{
-		"id": 11,
-		"href": "",
+		"id": 12,
+		"href": "/product/1",
 		"img": "/images/products/item_12.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
-	},
-	{
-		"id": 12,
-		"href": "",
-		"img": "/images/products/item_13.png",
-		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
 	},
 	{
 		"id": 13,
-		"href": "",
-		"img": "/images/products/item_14.png",
+		"href": "/product/1",
+		"img": "/images/products/item_13.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
 	},
 	{
 		"id": 14,
-		"href": "",
-		"img": "/images/products/item_15.png",
+		"href": "/product/1",
+		"img": "/images/products/item_14.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
 	},
 	{
 		"id": 15,
-		"href": "",
-		"img": "/images/products/item_16.png",
+		"href": "/product/1",
+		"img": "/images/products/item_15.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
 	},
 	{
 		"id": 16,
-		"href": "",
-		"img": "/images/products/item_17.png",
+		"href": "/product/1",
+		"img": "/images/products/item_16.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
 	},
 	{
 		"id": 17,
-		"href": "",
+		"href": "/product/1",
+		"img": "/images/products/item_17.png",
+		"alt": "",
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
+	},
+	{
+		"id": 18,
+		"href": "/product/1",
 		"img": "/images/products/item_18.png",
 		"alt": "",
-		"title": "",
-		"description": "",
-		"price": "",
-		"tag": ""
+		"title": "UPHOLSTERED BOUCLÉ",
+		"description": "Кресло для отдыха",
+		"price": "11 540",
+		"tag": "bathroom"
+	},
+	{
+		"id": 19,
+		"href": "/product/1",
+		"img": "/images/products/item_1.png",
+		"alt": "",
+		"title": "ROUND BASKET",
+		"description": "Плетеная джутовая корзина",
+		"price": "2 840",
+		"tag": "bathroom"
+	},
+	{
+		"id": 20,
+		"href": "/product/1",
+		"img": "/images/products/item_2.png",
+		"alt": "",
+		"title": "LEATHER STOOL",
+		"description": "Кожаный стул",
+		"price": "3 120",
+		"tag": "bathroom"
 	}
 ]

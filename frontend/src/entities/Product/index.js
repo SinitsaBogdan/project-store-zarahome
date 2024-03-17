@@ -1,2 +1,3 @@
-import Product from './components/Product';
-export default Product;
+import { Product } from './components/Product';
+import { ProductSmall } from './components/ProductSmall';
+export { Product, ProductSmall };

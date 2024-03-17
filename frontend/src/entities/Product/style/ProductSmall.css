@@ -1,0 +1,24 @@
+.ProductSmall {
+}
+.ProductSmall__link {
+	display: flex;
+	column-gap: 20px;
+}
+.ProductSmall__image {
+	width: 116px;
+	height: 116px;
+}
+.ProductSmall__content {
+	display: flex;
+	flex-direction: column;
+}
+.ProductSmall__title {
+	font-size: 18px;
+}
+.ProductSmall__descriptions {
+	font-size: 16px;
+}
+.ProductSmall__price {
+	margin-top: auto;
+	font-size: 28px;
+}
