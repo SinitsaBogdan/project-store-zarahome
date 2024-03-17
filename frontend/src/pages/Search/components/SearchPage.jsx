@@ -1,14 +1,13 @@
 import React from 'react';
-import '../style/SearchPage.css';
-
-// widgets
-import Header from '../../../widgets/Header';
-import Footer from '../../../widgets/Footer';
+import { Header, Footer, Directory } from '../../../widgets';
+import { Search } from '../../../features';
 
 export default function SearchPage() {
 	return (
 		<>
 			<Header />
+			<Search />
+			<Directory />
 			<Footer />
 		</>
 	);
