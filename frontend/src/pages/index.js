@@ -10,3 +10,4 @@ export { default as OrderPage } from './Order';
 export { default as ProductPage } from './Product';
 export { default as SearchPage } from './Search';
 export { default as ReviewsPage } from './Reviews';
+export { default as InfoPage } from './Info';
