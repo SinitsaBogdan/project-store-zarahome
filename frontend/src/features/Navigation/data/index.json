@@ -1,15 +1,11 @@
 [
 	{
 		"title": "Все товары",
-		"url": "/"
-	},
-	{
-		"title": "Каталог",
 		"url": "/catalog"
 	},
 	{
-		"title": "Найти товар",
-		"url": "/search"
+		"title": "Каталог",
+		"url": "/catalog/search"
 	},
 	{
 		"title": "Скидки",
@@ -21,6 +17,6 @@
 	},
 	{
 		"title": "Информация",
-		"url": "/"
+		"url": "/info"
 	}
 ]
