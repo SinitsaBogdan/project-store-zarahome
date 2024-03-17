@@ -1,0 +1,393 @@
+[
+	{
+		"id": 1,
+		"title": "Спальня",
+		"href": "catalog?section=bedroom",
+		"content": [
+			{
+				"id": 1,
+				"title": "ПОСТЕЛЬНОЕ БЕЛЬЕ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": [
+					{
+						"id": 1,
+						"title": "Смотреть все",
+						"href": "catalog?section=bedroom&category=linen&group=all"
+					},
+					{
+						"id": 2,
+						"title": "Основное постельное белье",
+						"href": "catalog?section=bedroom&category=linen&group=basic"
+					},
+					{
+						"id": 3,
+						"title": "Пододеяльники",
+						"href": "catalog?section=bedroom&category=linen&group=duvet"
+					},
+					{
+						"id": 4,
+						"title": "Наволочки",
+						"href": "catalog?section=bedroom&category=linen&group=pillowcases"
+					},
+					{
+						"id": 5,
+						"title": "Пледы",
+						"href": "catalog?section=bedroom&category=linen&group=blankets"
+					},
+					{
+						"id": 6,
+						"title": "Плоские простыни",
+						"href": "catalog?section=bedroom&category=linen&group=flat"
+					}
+				]
+			},
+			{
+				"id": 2,
+				"title": "НАПОЛНИТЕЛИ И ПРОТЕКТОРЫ",
+				"href": "catalog?section=bedroom&category=fillers",
+				"content": []
+			},
+			{
+				"id": 3,
+				"title": "БЕСПРИНАДЫ",
+				"href": "catalog?section=bedroom&category=marinades",
+				"content": []
+			},
+			{
+				"id": 4,
+				"title": "КВИЛТЫ",
+				"href": "catalog?section=bedroom&category=quilts",
+				"content": []
+			},
+			{
+				"id": 5,
+				"title": "БЛАНКЕТЫ",
+				"href": "catalog?section=bedroom&category=blancs",
+				"content": []
+			},
+			{
+				"id": 6,
+				"title": "ПОДШИПНИКИ",
+				"href": "catalog?section=bedroom&category=bearings",
+				"content": []
+			},
+			{
+				"id": 7,
+				"title": "МЕБЕЛЬ",
+				"href": "catalog?section=bedroom&category=furniture",
+				"content": []
+			},
+			{
+				"id": 8,
+				"title": "РУГИ",
+				"href": "catalog?section=bedroom&category=rugi",
+				"content": []
+			},
+			{
+				"id": 9,
+				"title": "ЗЕРКАЛА",
+				"href": "catalog?section=bedroom&category=mirrrors",
+				"content": []
+			},
+			{
+				"id": 10,
+				"title": "ОСВЕЩЕНИЕ",
+				"href": "catalog?section=bedroom&category=lighting",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Одежда и обувь",
+		"href": "catalog?section=bedroom&category=all",
+		"content": [
+			{
+				"id": 1,
+				"title": "ОДЕЖДА",
+				"href": "catalog?section=bedroom&category=clothes",
+				"content": []
+			},
+			{
+				"id": 2,
+				"title": "ОБУВЬ",
+				"href": "catalog?section=bedroom&category=shoes",
+				"content": []
+			},
+			{
+				"id": 3,
+				"title": "СУМКИ",
+				"href": "catalog?section=bedroom&category=bags",
+				"content": []
+			},
+			{
+				"id": 4,
+				"title": "КРЮЧКИ И ВЕШАЛКИ",
+				"href": "catalog?section=bedroom&category=hooks",
+				"content": []
+			},
+			{
+				"id": 5,
+				"title": "УХОД ЗА БЕЛЬЕМ",
+				"href": "catalog?section=bedroom&category=",
+				"content": []
+			},
+			{
+				"id": 6,
+				"title": "ПЛЯЖНАЯ ОДЕЖДА",
+				"href": "catalog?section=bedroom&category=laundry-care",
+				"content": []
+			},
+			{
+				"id": 7,
+				"title": "ХРАНЕНИЕ",
+				"href": "catalog?section=bedroom&category=keeping",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Экстра",
+		"href": "catalog?section=bedroom&category=all",
+		"content": [
+			{
+				"id": 1,
+				"title": "КОЛЛЕКЦИЯ",
+				"href": "catalog?section=bedroom&category=",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Жилая комната",
+		"href": "catalog?section=bedroom&category=collection",
+		"content": [
+			{
+				"id": 1,
+				"title": "МЕБЕЛЬ",
+				"href": "catalog?section=bedroom&category=furniture",
+				"content": []
+			},
+			{
+				"id": 2,
+				"title": "RUGS",
+				"href": "catalog?section=bedroom&category=rugs",
+				"content": []
+			},
+			{
+				"id": 3,
+				"title": "ЗЕРКАЛА",
+				"href": "catalog?section=bedroom&category=mirrors",
+				"content": []
+			},
+			{
+				"id": 4,
+				"title": "ЛАМПЫ И ОСВЕЩЕНИЕ",
+				"href": "catalog?section=bedroom&category=lamps",
+				"content": []
+			},
+			{
+				"id": 5,
+				"title": "КУРТИРЫ",
+				"href": "catalog?section=bedroom&category=couriters",
+				"content": []
+			},
+			{
+				"id": 6,
+				"title": "CUSHIONS",
+				"href": "catalog?section=bedroom&category=cushions",
+				"content": []
+			},
+			{
+				"id": 7,
+				"title": "НАПОЛНИТЕЛИ ДЛЯ ПОДУШЕК",
+				"href": "catalog?section=bedroom&category=",
+				"content": []
+			},
+			{
+				"id": 8,
+				"title": "БЛАНКЕТЫ",
+				"href": "catalog?section=bedroom&category=fillers",
+				"content": []
+			},
+			{
+				"id": 9,
+				"title": "БАСКЕТЫ",
+				"href": "catalog?section=bedroom&category=baskets",
+				"content": []
+			},
+			{
+				"id": 10,
+				"title": "ЗЕРКАЛА",
+				"href": "catalog?section=bedroom&category=mirrors",
+				"content": []
+			},
+			{
+				"id": 11,
+				"title": "ЛАМПЫ И ОСВЕЩЕНИЕ",
+				"href": "catalog?section=bedroom&category=lamps",
+				"content": []
+			},
+			{
+				"id": 12,
+				"title": "ВАЗЫ",
+				"href": "catalog?section=bedroom&category=vases",
+				"content": []
+			},
+			{
+				"id": 13,
+				"title": "ФОТОРАМКИ",
+				"href": "catalog?section=bedroom&category=photo",
+				"content": []
+			},
+			{
+				"id": 14,
+				"title": "ДВЕРНЫЕ НОЖКИ",
+				"href": "catalog?section=bedroom&category=door-legs",
+				"content": []
+			},
+			{
+				"id": 15,
+				"title": "КОРОБКИ",
+				"href": "catalog?section=bedroom&category=boxws",
+				"content": []
+			},
+			{
+				"id": 16,
+				"title": "ПОДНОСЫ И ДЕРЖАТЕЛИ ДЛЯ МЕЛОЧЕЙ",
+				"href": "catalog?section=bedroom&category=trays",
+				"content": []
+			},
+			{
+				"id": 17,
+				"title": "ДЕКОРАТИВНЫЕ АКСЕССУАРЫ",
+				"href": "catalog?section=bedroom&category=accessories",
+				"content": []
+			},
+			{
+				"id": 18,
+				"title": "СВЕЧИ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "Кухня",
+		"href": "catalog?section=bedroom&category=all",
+		"content": [
+			{
+				"id": 1,
+				"title": "ПОСУДА И УТВАРЬ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 2,
+				"title": "СОСУДЫ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 3,
+				"title": "ЧАЙНЫЕ ПОЛОТЕНЦА, ФАРТУКИ И СУМКИ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 4,
+				"title": "КУХОННЫЕ АКСЕССУАРЫ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 5,
+				"title": "МЕБЕЛЬ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 6,
+				"title": "КРЕСЛА",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 7,
+				"title": "ОСВЕЩЕНИЕ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 8,
+				"title": "ХРАНЕНИЕ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 9,
+				"title": "СТИРКА И УБОРКА",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Столовая",
+		"href": "catalog?section=bedroom&category=all",
+		"content": [
+			{
+				"id": 1,
+				"title": "СТОЛОВАЯ ПОСУДА",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 2,
+				"title": "БОУЛЫ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 3,
+				"title": "МУГИ",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			},
+			{
+				"id": 4,
+				"title": "СТЕКЛЯННАЯ ПОСУДА",
+				"href": "catalog?section=bedroom&category=all",
+				"content": []
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "Ванная комната",
+		"href": "catalog?section=bedroom&category=all",
+		"content": []
+	},
+	{
+		"id": 8,
+		"title": "Ароматы для дома",
+		"href": "catalog?section=bedroom&category=all",
+		"content": []
+	},
+	{
+		"id": 9,
+		"title": "Детская",
+		"href": "catalog?section=bedroom&category=all",
+		"content": []
+	},
+	{
+		"id": 10,
+		"title": "Домашние животные",
+		"href": "catalog?section=bedroom&category=all",
+		"content": []
+	}
+]
