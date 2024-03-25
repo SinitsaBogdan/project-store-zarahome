@@ -4,7 +4,7 @@ import '../style/RatingStar.css';
 
 export default function RatingStar() {
 	return (
-		<ul class='RatingStar'>
+		<ul className='RatingStar'>
 			<li className='RatingStar__image__small'></li>
 			<li className='RatingStar__image__medium'></li>
 			<li className='RatingStar__image__big'></li>
