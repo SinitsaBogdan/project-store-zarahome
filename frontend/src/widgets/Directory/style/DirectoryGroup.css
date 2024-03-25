@@ -4,7 +4,7 @@
 .DirectoryGroup::before {
 	content: '';
 	position: absolute;
-	top: 6px;
+	top: 4px;
 	z-index: 10;
 	left: -22px;
 	width: 14px;
@@ -27,7 +27,7 @@
 }
 .DirectoryGroup__title {
 	border-bottom: 2px solid transparent;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 800;
 }
 .DirectoryGroup__title:hover {
