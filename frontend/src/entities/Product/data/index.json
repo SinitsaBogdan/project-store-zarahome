@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"href": "//product/1",
+		"href": "/product/",
 		"img": "/images/products/item_1.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -11,7 +11,7 @@
 	},
 	{
 		"id": 2,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_2.png",
 		"alt": "",
 		"title": "LEATHER STOOL",
@@ -21,7 +21,7 @@
 	},
 	{
 		"id": 3,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_3.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 4,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_4.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 5,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_5.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -51,7 +51,7 @@
 	},
 	{
 		"id": 6,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_6.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -61,7 +61,7 @@
 	},
 	{
 		"id": 7,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_7.png",
 		"alt": "",
 		"title": "LEATHER STOOL",
@@ -71,7 +71,7 @@
 	},
 	{
 		"id": 8,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_8.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": 9,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_9.png",
 		"alt": "",
 		"title": "",
@@ -91,7 +91,7 @@
 	},
 	{
 		"id": 10,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_10.png",
 		"alt": "",
 		"title": "",
@@ -101,7 +101,7 @@
 	},
 	{
 		"id": 11,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_11.png",
 		"alt": "",
 		"title": "",
@@ -111,7 +111,7 @@
 	},
 	{
 		"id": 12,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_12.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -121,7 +121,7 @@
 	},
 	{
 		"id": 13,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_13.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -131,7 +131,7 @@
 	},
 	{
 		"id": 14,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_14.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -141,7 +141,7 @@
 	},
 	{
 		"id": 15,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_15.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -151,7 +151,7 @@
 	},
 	{
 		"id": 16,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_16.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": 17,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_17.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -171,7 +171,7 @@
 	},
 	{
 		"id": 18,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_18.png",
 		"alt": "",
 		"title": "UPHOLSTERED BOUCLÉ",
@@ -181,7 +181,7 @@
 	},
 	{
 		"id": 19,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_1.png",
 		"alt": "",
 		"title": "ROUND BASKET",
@@ -191,7 +191,7 @@
 	},
 	{
 		"id": 20,
-		"href": "/product/1",
+		"href": "/product/",
 		"img": "/images/products/item_2.png",
 		"alt": "",
 		"title": "LEATHER STOOL",
