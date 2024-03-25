@@ -5,15 +5,15 @@
 	},
 	{
 		"title": "Каталог",
-		"url": "/catalog/search"
+		"url": "/search"
 	},
 	{
 		"title": "Скидки",
-		"url": "/discounts"
+		"url": "/catalog?filter=discounts"
 	},
 	{
 		"title": "Новинки",
-		"url": "/new-products"
+		"url": "/catalog?filter=new"
 	},
 	{
 		"title": "Информация",
