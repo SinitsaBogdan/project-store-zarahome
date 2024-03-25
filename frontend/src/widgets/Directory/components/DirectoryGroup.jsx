@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 import '../style/DirectoryGroup.css';
 
@@ -20,9 +21,9 @@ export default function DirectoryGroup({ title, content }) {
 				{content?.map((item, index) => {
 					return (
 						<li className='DirectoryGroup__item' key={index}>
-							<a className='DirectoryGroup__link' href={item.href}>
+							<Link to={item.href} className='DirectoryGroup__link'>
 								{item.title}
-							</a>
+							</Link>
 						</li>
 					);
 				})}
