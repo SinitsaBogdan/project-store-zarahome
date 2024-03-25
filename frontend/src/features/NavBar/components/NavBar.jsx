@@ -22,8 +22,6 @@ export default function NavBar() {
 		}
 	}
 
-	console.log(chapterActive, categoryActive);
-
 	return (
 		<aside className='NavBar'>
 			<menu className='NavBar__content'>
