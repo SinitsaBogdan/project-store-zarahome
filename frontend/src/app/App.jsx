@@ -19,11 +19,11 @@ export default function App() {
 	return (
 		<Routes>
 			<Route path='/' element={<HomePage />} />
-			<Route path='/catalog' element={<CatalogPage />} />
-			<Route path='/catalog/search' element={<SearchPage />} />
-			<Route path='/discounts' element={<CatalogPage />} />
 			<Route path='/info' element={<InfoPage />} />
-			<Route path='/new-products' element={<CatalogPage />} />
+			<Route path='/search' element={<SearchPage />} />
+			<Route path='/catalog' element={<CatalogPage />} />
+			<Route path='/catalog?filter=discounts' element={<CatalogPage />} />
+			<Route path='/catalog?filter=new' element={<CatalogPage />} />
 			<Route path='/reviews' element={<ReviewsPage />} />
 			<Route path='/product/:id' element={<ProductPage />} />
 			<Route path='/product/:id/reviews' element={<ProductPage />} />
