@@ -6,10 +6,10 @@ import '../style/Product.css';
 import { CartButtonUI, LikeButtonUI } from '../../../shared/ui';
 import { FormSelectColor, Pagination } from '../../../features';
 
-export default function Product({ href, img, alt, title, description, price }) {
+export default function Product({id, href, img, alt, title, description, price }) {
 	return (
 		<article className='Product'>
-			<Link to={href} className='Product__link'>
+			<Link to={href + id} className='Product__link'>
 				<img className='Product__image' src={img} alt={alt} />
 				<Pagination />
 				<LikeButtonUI />
