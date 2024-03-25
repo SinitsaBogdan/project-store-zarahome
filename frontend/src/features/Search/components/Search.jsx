@@ -17,7 +17,6 @@ export default function Search({ value = 'кожан' }) {
 			/>
 			<ul className='Search__list'>
 				{Products.map((item, index) => {
-					console.log(item);
 					if (index <= 3) {
 						return (
 							<li key={index} className='Search__item'>
