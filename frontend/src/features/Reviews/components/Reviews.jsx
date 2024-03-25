@@ -6,8 +6,8 @@ import '../style/Reviews.css';
 
 export default function Reviews() {
 	return (
-		<article class='Reviews'>
-			<Link to='/reviews' class='Reviews__link'>
+		<article className='Reviews'>
+			<Link to='/reviews' className='Reviews__link'>
 				Смотреть все отзывы
 			</Link>
 		</article>
