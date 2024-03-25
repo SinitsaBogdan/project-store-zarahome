@@ -10,7 +10,7 @@
 	content: '';
 	position: absolute;
 	top: 14px;
-	left: 10.6%;
+	left: 6%;
 	width: 36px;
 	height: 36px;
 	background-image: url('../../../shared/assets/icon/search.svg');
@@ -19,7 +19,7 @@
 	background-position: center;
 }
 .Search__input {
-	width: 80%;
+	width: 90%;
 	height: 56px;
 	border: none;
 	border-bottom: 1px solid var(--color-gray-30);
